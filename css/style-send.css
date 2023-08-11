@@ -1,0 +1,61 @@
+#send {
+    margin-top: 300px;
+}
+#textarea {
+    width: 99%;
+    height: 120px;
+    border-radius: 20px;
+    padding: 5px;
+    border: 3px solid blue;
+}
+#send-button {
+    height: 50px;
+    border-radius: 20px;
+    color: #000;
+    background-color: green;
+    border: 3px solid blue;
+    width: 100%;
+    font-weight: bold;
+}
+
+.profle-container {
+    display: flex;
+    align-items: center;
+}
+
+#imgprofle {
+    width: 100px; /* قم بتعديل العرض حسب الحجم المناسب */
+    height: auto; /* احتفظ بالارتفاع التلقائي للحفاظ على نسبة العرض إلى الارتفاع */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.profle-info {
+    margin-left: 20px; /* قم بتعديل الهوامش حسب الحاجة */
+}
+#massage-no-sender {
+    background-color: green;
+    color: blue;
+    width: 200px;
+    margin-left: 20px;
+    padding: 7px;
+    padding-bottom: 25px;
+    font-weight: bold;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+#img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    top: -10px;
+}
+
+#imguser {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #111010;
+}
